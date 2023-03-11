@@ -94,14 +94,4 @@ export const getUserDataReducer = (state = {}, action) => {
   }
 };
 
-// email: "amit@gmail.com"
-// enabled: true
-// firstName: "Amit"
-// lastName: "Patil"
-// password: "Amit@123"
-// phone: "8806014080"
-// primaryAccount: {id: 2, accountNumber: 1003, accountBalance: 8440}
-// role: "CUSTOMER"
-// savingsAccount: {id: 2, accountNumber: 1004, accountBalance: 26400}
-// userId: 2
-// userName: "amit"
+
