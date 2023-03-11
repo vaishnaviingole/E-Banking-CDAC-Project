@@ -1,0 +1,29 @@
+body {
+  background: url('https://www.callcentrehelper.com/images/stories/2019/03/piggy-bank-orange-bg-760.jpg')fixed;
+  
+ background-size: cover;
+
+}
+
+.page-container{
+  display:flex;
+  flex-direction:column;
+  min-height:100vh;
+}
+
+.content-wrap{
+  flex:1
+}
+
+.font-color{
+  color: white !important;
+}
+
+textarea{
+  resize: none;
+}
+
+.text-left{
+
+  text-align: left;
+}
